@@ -49,6 +49,9 @@ h2:hover {
   color: #f47b56;
   cursor: pointer;
 }
+.active {
+  font-weight: 700;
+}
 .mobile-text {
   font-family: "Kumbh Sans";
   font-style: normal;
@@ -64,6 +67,9 @@ h2:hover {
 }
 .arrow:hover {
   cursor: pointer;
+}
+.rotate {
+  transform: rotate(180deg);
 }
 hr {
   margin: 4px 0 16px 0;
